@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+openpyxl = "*"
+xlsxwriter = "*"
 
 [dev-packages]
 ipython = "==8.3.0"
