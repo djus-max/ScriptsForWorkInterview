@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Angie Morales",
+        "scores": {
+            "math": 62,
+            "russian_language": 20,
+            "computer_science": 82
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Jeffrey Reid",
+        "scores": {
+            "math": 59,
+            "russian_language": 52,
+            "computer_science": 40
+        },
+        "extra_scores": 2
+    },
+    {
+        "name": "Brittany Montoya",
+        "scores": {
+            "math": 39,
+            "russian_language": 43,
+            "computer_science": 81
+        },
+        "extra_scores": 3
+    },
+    {
+        "name": "James Arias",
+        "scores": {
+            "math": 61,
+            "russian_language": 17,
+            "computer_science": 19
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "Jim Powell",
+        "scores": {
+            "math": 94,
+            "russian_language": 1,
+            "computer_science": 58
+        },
+        "extra_scores": 7
+    },
+    {
+        "name": "John Webb",
+        "scores": {
+            "math": 53,
+            "russian_language": 54,
+            "computer_science": 28
+        },
+        "extra_scores": 2
+    },
+    {
+        "name": "Christopher Wiggins",
+        "scores": {
+            "math": 98,
+            "russian_language": 47,
+            "computer_science": 59
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "Robert Hall",
+        "scores": {
+            "math": 98,
+            "russian_language": 26,
+            "computer_science": 82
+        },
+        "extra_scores": 4
+    },
+    {
+        "name": "Lawrence Gonzalez",
+        "scores": {
+            "math": 26,
+            "russian_language": 94,
+            "computer_science": 51
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Jennifer Rodriguez",
+        "scores": {
+            "math": 93,
+            "russian_language": 57,
+            "computer_science": 68
+        },
+        "extra_scores": 6
+    },
+    {
+        "name": "Eddie Shepherd",
+        "scores": {
+            "math": 43,
+            "russian_language": 54,
+            "computer_science": 30
+        },
+        "extra_scores": 2
+    },
+    {
+        "name": "Melanie Johnson DDS",
+        "scores": {
+            "math": 96,
+            "russian_language": 83,
+            "computer_science": 24
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "Richard Smith",
+        "scores": {
+            "math": 84,
+            "russian_language": 87,
+            "computer_science": 72
+        },
+        "extra_scores": 3
+    },
+    {
+        "name": "Brenda Harding",
+        "scores": {
+            "math": 8,
+            "russian_language": 29,
+            "computer_science": 62
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Gregory Miller",
+        "scores": {
+            "math": 58,
+            "russian_language": 39,
+            "computer_science": 32
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "Cassandra Herman",
+        "scores": {
+            "math": 48,
+            "russian_language": 20,
+            "computer_science": 66
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "Sarah Goodwin",
+        "scores": {
+            "math": 79,
+            "russian_language": 68,
+            "computer_science": 28
+        },
+        "extra_scores": 3
+    },
+    {
+        "name": "Kayla Adkins",
+        "scores": {
+            "math": 91,
+            "russian_language": 65,
+            "computer_science": 59
+        },
+        "extra_scores": 6
+    },
+    {
+        "name": "Jessica Parker",
+        "scores": {
+            "math": 48,
+            "russian_language": 96,
+            "computer_science": 24
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Anna Allen",
+        "scores": {
+            "math": 28,
+            "russian_language": 15,
+            "computer_science": 72
+        },
+        "extra_scores": 5
+    },
+    {
+        "name": "Amber Livingston",
+        "scores": {
+            "math": 21,
+            "russian_language": 61,
+            "computer_science": 97
+        },
+        "extra_scores": 6
+    },
+    {
+        "name": "Amanda Banks",
+        "scores": {
+            "math": 51,
+            "russian_language": 73,
+            "computer_science": 21
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Mr. Adam Nielsen DDS",
+        "scores": {
+            "math": 73,
+            "russian_language": 24,
+            "computer_science": 65
+        },
+        "extra_scores": 5
+    },
+    {
+        "name": "Nancy Gutierrez",
+        "scores": {
+            "math": 7,
+            "russian_language": 17,
+            "computer_science": 26
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Brandy Rich",
+        "scores": {
+            "math": 76,
+            "russian_language": 57,
+            "computer_science": 42
+        },
+        "extra_scores": 9
+    },
+    {
+        "name": "Leslie Charles",
+        "scores": {
+            "math": 7,
+            "russian_language": 85,
+            "computer_science": 3
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Noah Allen",
+        "scores": {
+            "math": 31,
+            "russian_language": 74,
+            "computer_science": 8
+        },
+        "extra_scores": 4
+    },
+    {
+        "name": "Jorge Hess",
+        "scores": {
+            "math": 88,
+            "russian_language": 79,
+            "computer_science": 11
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Diana Jones",
+        "scores": {
+            "math": 69,
+            "russian_language": 13,
+            "computer_science": 12
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Scott Smith",
+        "scores": {
+            "math": 14,
+            "russian_language": 18,
+            "computer_science": 65
+        },
+        "extra_scores": 9
+    },
+    {
+        "name": "Shaun Bradford",
+        "scores": {
+            "math": 43,
+            "russian_language": 52,
+            "computer_science": 14
+        },
+        "extra_scores": 2
+    },
+    {
+        "name": "Melvin Boyd",
+        "scores": {
+            "math": 8,
+            "russian_language": 24,
+            "computer_science": 69
+        },
+        "extra_scores": 2
+    },
+    {
+        "name": "Lori Davis",
+        "scores": {
+            "math": 23,
+            "russian_language": 43,
+            "computer_science": 49
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Sheila Beck",
+        "scores": {
+            "math": 66,
+            "russian_language": 39,
+            "computer_science": 17
+        },
+        "extra_scores": 2
+    },
+    {
+        "name": "Joseph Carroll",
+        "scores": {
+            "math": 60,
+            "russian_language": 0,
+            "computer_science": 76
+        },
+        "extra_scores": 5
+    },
+    {
+        "name": "Heather Perez",
+        "scores": {
+            "math": 50,
+            "russian_language": 5,
+            "computer_science": 2
+        },
+        "extra_scores": 4
+    },
+    {
+        "name": "Dr. Morgan Fowler",
+        "scores": {
+            "math": 76,
+            "russian_language": 22,
+            "computer_science": 10
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "James Thompson",
+        "scores": {
+            "math": 36,
+            "russian_language": 5,
+            "computer_science": 93
+        },
+        "extra_scores": 7
+    },
+    {
+        "name": "Hannah Gonzalez",
+        "scores": {
+            "math": 70,
+            "russian_language": 17,
+            "computer_science": 3
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Melissa Reid",
+        "scores": {
+            "math": 16,
+            "russian_language": 52,
+            "computer_science": 79
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "Jason Cervantes",
+        "scores": {
+            "math": 54,
+            "russian_language": 47,
+            "computer_science": 38
+        },
+        "extra_scores": 0
+    },
+    {
+        "name": "Benjamin Campbell",
+        "scores": {
+            "math": 51,
+            "russian_language": 25,
+            "computer_science": 76
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Brian Rodriguez",
+        "scores": {
+            "math": 81,
+            "russian_language": 27,
+            "computer_science": 82
+        },
+        "extra_scores": 8
+    },
+    {
+        "name": "Sherri Roberts",
+        "scores": {
+            "math": 65,
+            "russian_language": 12,
+            "computer_science": 93
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Jeffrey Martinez",
+        "scores": {
+            "math": 2,
+            "russian_language": 0,
+            "computer_science": 63
+        },
+        "extra_scores": 3
+    },
+    {
+        "name": "Michael Juarez",
+        "scores": {
+            "math": 28,
+            "russian_language": 55,
+            "computer_science": 83
+        },
+        "extra_scores": 2
+    },
+    {
+        "name": "Brad Chapman",
+        "scores": {
+            "math": 30,
+            "russian_language": 63,
+            "computer_science": 27
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Catherine Nelson",
+        "scores": {
+            "math": 15,
+            "russian_language": 97,
+            "computer_science": 50
+        },
+        "extra_scores": 3
+    },
+    {
+        "name": "Madeline Allen",
+        "scores": {
+            "math": 45,
+            "russian_language": 77,
+            "computer_science": 95
+        },
+        "extra_scores": 1
+    },
+    {
+        "name": "Jaime Leblanc",
+        "scores": {
+            "math": 67,
+            "russian_language": 52,
+            "computer_science": 77
+        },
+        "extra_scores": 1
+    }
+]

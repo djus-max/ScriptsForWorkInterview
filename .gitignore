@@ -1,0 +1,13 @@
+# my files
+_time*/*
+default.code-workspace
+**/*.ipynb
+
+
+# service files
+__pycache__/
+.*
+!.gitignore
+Pipfile.lock
+
+# Work files
